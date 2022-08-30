@@ -8,11 +8,15 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 📋 Pré-requisitos
 
+Instalar flaks
 ```
 pip install flask
 ```
-
-### 🔧 Instalação
+Instalar ambiente local
+```
+python -m venv venv
+```
+### Rodando o projeto
 
 ```
 Em construcao
