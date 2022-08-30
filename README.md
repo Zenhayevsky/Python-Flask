@@ -3,12 +3,12 @@
 Projeto desenvolvido para o estudo da biblioteca Flask do python
 
 ## 🚀 Preparando o ambiente
-A seguir, sera apresentado o passo a passo para :
+A seguir, sera apresentado o passo a passo para : /n 
 
 Instalar Pré-requisitos
 **[Pré-requisitos](#-Pré-requisitos)**
 Rodar o projeto
-**[Rodando o projeto](#-Rodando o projeto)**
+**[Run](#-Run)**
 Executar testes
 **[Tests](#-Tests)**
 
@@ -22,7 +22,7 @@ Instalar ambiente local
 ```
 python -m venv venv
 ```
-### 🚀 Rodando o projeto
+### 🚀 Run
 
 ```
 Em construcao
