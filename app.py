@@ -1,6 +1,5 @@
-from os import abort
+from flask import Flask, abort
 
-from flask import Flask
 import db
 
 app = Flask(__name__)
