@@ -1,28 +1,25 @@
 # PythonFlask
 
-Projeto desenvolvido para o estudo da biblioteca Flask do python
+Project developed for the study of the python Flask library
 
-## 🚀 Preparando o ambiente
-A seguir, sera apresentado o passo a passo para : 
+## 🚀 Preparing the environment
 
-Instalar Pré-requisitos
-**[Pré-requisitos](#-Pré-requisitos)**
+Install Prerequisites
+**[Prerequisites](#-Pré-requisitos)**
 
-
-Rodar o projeto
+Run the project
 **[Run](#-Run)**
 
-
-Executar testes
+Run tests
 **[Tests](#-Tests)**
 
-### 📋 Pré-requisitos
+### 📋 Prerequisites
 
-Instalar flaks
+Install flaks
 ```
 pip install flask
 ```
-Instalar ambiente local
+Install virtual environment
 ```
 python -m venv venv
 ```
