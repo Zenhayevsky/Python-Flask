@@ -1,6 +1,6 @@
 # PythonFlask
 
-Project developed for the study of the python Flask library
+Project developed for the study of the python Flask library.
 
 ## 🚀 Preparing the environment
 
